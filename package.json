@@ -24,12 +24,12 @@
   "homepage": "https://github.com/nguyenlyminhman/react-mongo-crud#readme",
   "dependencies": {
     "config": "^1.30.0",
+    "create-react-class": "^15.6.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "mongoose": "^5.1.2",
     "nodemon": "^1.17.5",
     "react": "^16.4.0",
-    "react-create-class": "^1.0.0",
     "react-dom": "^16.4.0"
   },
   "devDependencies": {
